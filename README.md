@@ -37,12 +37,12 @@ GasGift Reimbursement Protocol (GRP) pioneers the first trustless Activity Scori
 ### Live Demo: [GasGift Reimbursement Protocol](https://gas-reimbursement.vercel.app/)
 ![GasGift](https://github.com/chiguayeshao/gas-reimbursement-platform/blob/main/public/gas-reimbursement.png)
 
-### Demo Vedio: [GasGift Reimbursement Protocol Youtube](https://youtu.be/qSxtGkCf038)
+### Demo Vedio: [GasGift Reimbursement Protocol Youtube](https://youtu.be/PppWe9u0MDU)
 
 ### Github Repo:
     
-#### 合约: [Contract Repo](https://github.com/chiguayeshao/Gas-Reimbursement-Contract)
-#### 前端: [Frontend Repo](https://github.com/chiguayeshao/gas-reimbursement-platform)
+#### 合约: [Contract Repo](https://github.com/GasLockR/gas-reimbursement-platform/contract)
+#### 前端: [Frontend Repo](https://github.com/GasLockR/gas-reimbursement-platform)
 
 
 ### Conclusion
