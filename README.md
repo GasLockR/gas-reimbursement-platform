@@ -41,7 +41,7 @@ GasGift Reimbursement Protocol (GRP) pioneers the first trustless Activity Scori
 
 ### Github Repo:
     
-#### 合约: [Contract Repo](https://github.com/GasLockR/gas-reimbursement-platform/contract)
+#### 合约: [Contract Repo](https://github.com/GasLockR/gas-reimbursement-platform/tree/main/contract)
 #### 前端: [Frontend Repo](https://github.com/GasLockR/gas-reimbursement-platform)
 
 
